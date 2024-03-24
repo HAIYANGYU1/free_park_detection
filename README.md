@@ -18,4 +18,3 @@ mim install "mmdet3d>=1.1.0rc0"
 (download the config and checkpoint files)  
 mim download mmdet3d --config pointpillars_hv_secfpn_8xb6-160e_kitti-3d-car --dest .  
 
-
